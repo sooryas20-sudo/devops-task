@@ -16,5 +16,3 @@ This task involves setting up a custom AWS networking environment (VPC) and depl
     - Port 80 (HTTP) allowed from Anywhere.
 - Successfully connected to the instance via SSH using the `.pem` key.
 - Verified that the instance is correctly routed through the custom VPC Internet Gateway.
-
-Screenshots of the VPC resource map, instance details, and successful SSH connection can be found in the `/screenshots` directory of this folder.
